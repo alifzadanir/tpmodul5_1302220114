@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TP KPL\\TPKPL_5\\tpmodul5_1302220114\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D827C0E4-BD85-48E2-8565-D676DF3BDB46}|tpmodul5_1302220114\\tpmodul5_1302220114.csproj|d:\\tp kpl\\tpkpl_5\\tpmodul5_1302220114\\tpmodul5_1302220114\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D827C0E4-BD85-48E2-8565-D676DF3BDB46}|tpmodul5_1302220114\\tpmodul5_1302220114.csproj|solutionrelative:tpmodul5_1302220114\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TP KPL\\TPKPL_5\\tpmodul5_1302220114\\tpmodul5_1302220114\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul5_1302220114\\Program.cs",
+              "ToolTip": "D:\\TP KPL\\TPKPL_5\\tpmodul5_1302220114\\tpmodul5_1302220114\\Program.cs",
+              "RelativeToolTip": "tpmodul5_1302220114\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T11:01:59.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
